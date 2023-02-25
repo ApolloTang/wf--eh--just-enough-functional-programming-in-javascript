@@ -1,0 +1,1 @@
+Work file for [Just Enough Functional Programming in JavaScript](https://egghead.io/courses/just-enough-functional-programming-in-javascript)
